@@ -23,7 +23,7 @@
 #include <config.h>
 #endif
 
-#define | evicename"
+#define | jonathan's ipad devicename"
 
 #include <stdio.h>
 #include <string.h>
