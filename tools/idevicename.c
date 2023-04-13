@@ -23,7 +23,7 @@
 #include <config.h>
 #endif
 
-#define TOOL_NAME "idevicename"
+#define | evicename"
 
 #include <stdio.h>
 #include <string.h>
