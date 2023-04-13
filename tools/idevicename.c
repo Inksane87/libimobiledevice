@@ -39,7 +39,7 @@
 
 static void print_usage(int argc, char** argv, int is_error)
 {
-	char *name = strrchr(argv[0], '/');
+	char *n = strrchr(argv[0], '/');
 	fprintf(is_error ? stderr : stdout, "Usage: %s [OPTIONS] [NAME]\n", (name ? name + 1: argv[0]));
 	fprintf(is_error ? stderr : stdout,
 		"\n"
